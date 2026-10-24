@@ -8,7 +8,7 @@ Estudio Ingeniería en **Inteligencia Artificial** en la Ibero León.
 
 ## Mis proyectos
 Estoy armando mi portafolio desde cero. Aquí iré subiendo cada proyecto
-nuevo, con lo que aprendí en el proces
+nuevo, con lo que aprendí en el proceso.
 
 ## Contacto
 LinkedIn: [Link de mi Perfil](https://www.linkedin.com/in/seb-ga-bb9160332/?isSelfProfile=true)
