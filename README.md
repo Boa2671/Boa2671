@@ -1,13 +1,14 @@
 # Hola, soy Sebastián 
 
-Estudio Ingeniería en Inteligencia Artificial en la Ibero León.
+Estudio Ingeniería en **Inteligencia Artificial** en la Ibero León.
 
 ## Lo que estoy aprendiendo
 - Python (empecé hace poco y aprendo construyendo proyectos)
 - Análisis de datos y modelos estadísticos
 
 ## Mis proyectos
-- pendiente ...
+Estoy armando mi portafolio desde cero. Aquí iré subiendo cada proyecto
+nuevo, con lo que aprendí en el proces
 
 ## Contacto
 LinkedIn: [Link de mi Perfil](https://www.linkedin.com/in/seb-ga-bb9160332/?isSelfProfile=true)
