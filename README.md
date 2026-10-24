@@ -10,7 +10,7 @@ Estudio Ingeniería en Inteligencia Artificial en la Ibero León.
 - pendiente ...
 
 ## Contacto
-LinkedIn: [https://www.linkedin.com/in/seb-ga-bb9160332/?isSelfProfile=true]
+LinkedIn: [Link de mi Pergfil](https://www.linkedin.com/in/seb-ga-bb9160332/?isSelfProfile=true)
 <!---
 Boa2671/Boa2671 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
